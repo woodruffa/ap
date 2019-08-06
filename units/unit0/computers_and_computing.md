@@ -2,10 +2,10 @@
 
 Computers are everywhere, but it's not just desktops and laptops anymore. Now we have tablets, cell phones, watches, and so much more that perform the same functions. Consider what makes a computer a computer, thinking about the common bonds that unify all those things which we call "computers," and also perhaps start to think outside the box a bit, considering whether some devices are indeed computers, but not in the traditional sense.
 
-- ### Videos (Part 0)
+<--- ### Videos (Part 0)
   - IGN on [Wii U](https://www.youtube.com/embed/Rs-Eub0-cRk)
   - Apple on the [Apple Watch](https://www.youtube.com/embed/BNpiwOkKIJ8)
-
+-->
 - ### Videos (Part 1)
   - Engineerguy on [How Smoke Detectors Work](https://www.youtube.com/embed/oFUUQcpGR3k)
   - Rregister on [Curta Mechanical Calculator](https://www.youtube.com/embed/HYsOi6L_Pw4)
