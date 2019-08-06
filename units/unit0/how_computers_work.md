@@ -6,13 +6,10 @@ The resources in this section come from a course called Computer Science E-1a, U
 
 - ### Lecture
   - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8?start=984&end=3540;)
-<!--
-- [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8)
-  - [Watch on the CS50 Video Player](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
-  - [Download Lecture](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/hardware-720p.mp4?download)-->
-
   - [Lecture Notes](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/notes/hardware.html)
-
+<!---  - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8)
+  - [Watch on the CS50 Video Player](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
+  - [Download Lecture](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/hardware-720p.mp4?download) --->
 - ### Notes
   - [How Computers Work]({{"/assets/pdfs/unit0/how_computers_work.pdf" | relative_url }})
   
