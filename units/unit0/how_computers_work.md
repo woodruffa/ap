@@ -7,6 +7,7 @@ The resources in this section come from a course called Computer Science E-1a, U
 - ### Lecture
   - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8?start=984&end=3540;)
   - [Lecture Notes](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/notes/hardware.html)
+  - [Watch Scott CPU](https://www.youtube.com/embed/cNN_tTXABUA)
 <!---  - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8)
   - [Watch on the CS50 Video Player](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
   - [Download Lecture](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/hardware-720p.mp4?download) --->
