@@ -7,6 +7,7 @@ The resources in this section come from a course called Computer Science E-1a, U
 - ### Lecture
   - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8?start=984&end=3540;)
   - [Lecture Notes](https://cdn.cs50.net/cscie1a/2017/fall/lectures/hardware/notes/hardware.html)
+  - [Watch Tommy's Video](https://youtu.be/Q2mOfJSG7rc)
   - [Watch Scott CPU](https://www.youtube.com/embed/cNN_tTXABUA)
   
 <!--  - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8)
@@ -15,6 +16,7 @@ The resources in this section come from a course called Computer Science E-1a, U
 - ### Notes
   - [How Computers Work]({{"/assets/pdfs/unit0/how_computers_work.pdf" | relative_url }})
   - Computer Parts - [Motherboard handout]({{"/assets/pdfs/unit0/motherboard.pdf" | relative_url }}) and explore computer
+  - Tommy's Notes - [Tommy's Notes](http://cse1.net/recaps/powerup)
   
 - ### Supplementary Resources
   - Khan Academy on [CPU, Memory, Input & Output](https://www.youtube.com/embed/MMzdKTtUIFM)
