@@ -26,4 +26,4 @@ The resources in this section come from a course called Computer Science E-1a, U
   - How does having separate physical components affect how hardware is developed?
   - To what extent are different components dependent upon how the other components are built?
   - Are there different layers of hardware? What makes up these layers, and how do they interact?
-  - What happens to hardware that becomes outdated?
+  - <b>What happens to hardware that becomes outdated?</b>
