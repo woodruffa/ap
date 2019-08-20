@@ -9,6 +9,7 @@ In this section, you will not yet be implementing any specific type of algorithm
   - [Watch on the CS50 Video Player](https://video.cs50.net/2017/fall/lectures/0?t=16m5s)
   - [Download Lecture](http://cdn.cs50.net/2017/fall/lectures/0/lecture0-720p.mp4?download)
   - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/0/lecture0.html#algorithms)
+  - [PBJ Algorithm](https://youtu.be/KUB-aJXquUA?t=1031)
 
 - ### Notes
   - [Algorithms]({{"/assets/pdfs/unit0/algorithms.pdf" | relative_url }})
